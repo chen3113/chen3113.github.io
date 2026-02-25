@@ -1,6 +1,6 @@
 
 
-[![chen3113](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/chen3113)
+[![chen3113](https://github.com/chen3113)
 
 
 #### Contact
